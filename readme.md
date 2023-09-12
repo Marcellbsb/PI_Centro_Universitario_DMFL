@@ -30,3 +30,8 @@ _Os fornecedores são inteiramente responsáveis pelo fornecimento de produtos d
 
 **Alunos:**
 _Aos alunos que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados._
+
+**Pessoa Jurídica:** _No contexto da parte correspondente à pessoa jurídica destaca-se os parâmetros relativos aos pedidos que são executados, visto que essa caberá à essa parte do sistema a incubência da geração de pedidos como também a remoção destes._
+
+**Pessoa Física:**_Concernente a essa parte estão vinculadas outras duas, as quais são __Professores__ e __Alunos__, a qual inclui também especificidades de cadastramento de novos usuários na interface dos sistema em questão._
+
