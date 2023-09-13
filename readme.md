@@ -44,7 +44,9 @@ _Essa categoria atua na prestação de serviços específicos através da plataf
 
 
 **Fornecedores:**
-_Os fornecedores são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especifidades relacionadas ao produtos que são utilizados, quanto no aviso prévio da falta desses mesmos produtos, os quais podem impactar em um funcionamento harmônico e eficaz da instituição._
+_Os fornecedores são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especifidades relacionadas ao produtos que são utilizados, quanto no aviso prévio da falta desses mesmos produtos, os quais podem impactar em um funcionamento harmônico e eficaz da instituição, temos como exemplo a tela a seguir:_
+
+![Fornecedores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20fornecedoresN.png)
 
 **Alunos:**
 _Aos alunos que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados._
