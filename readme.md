@@ -18,9 +18,13 @@ Iniciando algumas características do projeto.
 * **Alunos**
 * **Fornecedores**
   
-_Na imagem abaixo podemos verificar a página inicial da interface do sistema em carregamento:_
+_Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistema em carregamento:_
 
 ![Tela inicial da interface]( https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frm%20incial%20(1).png)
+
+_Na sequência pode-se visualizar a tela de **Login**, como opções de inserção de e-mail e senha, incluindo parãmetros de redefinição, caso necessário. Abrange inclusive possibilidade de redirecionamento para criação de uma conta, caso necessário._
+
+![Tela de login](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20telaloginN.png)
 
 _Cada parte tem acesso à características específicas de acesso, às quais são condizentes com o meio de atuaçã, incluido particularidades de prestação de serviços, dentre outros._
 
