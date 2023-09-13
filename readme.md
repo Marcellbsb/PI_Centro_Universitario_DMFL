@@ -52,5 +52,6 @@ _No contexto da parte correspondente à **Pessoa Jurídica** destaca-se os parâ
 
 ![Pessoa Jurídica](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20pessoa%20jur%C3%ADdicaN.png)
 
-**Pessoa Física:**_Concernente a essa parte estão vinculadas outras duas, as quais são __Professores__ e __Alunos__, a qual inclui também especificidades de cadastramento de novos usuários na interface dos sistema em questão._
+**Pessoa Física:**_Concernente a essa parte estão vinculadas outras duas, as quais são __Professores__ e __Alunos__, a qual inclui também especificidades de cadastramento de novos usuários na interface dos sistema em questão e caso o usuário já seja cadastrado, será redirecionado para página de login, conforme visto no exemplo:_
 
+![Pessoa Física](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20pessoa%20f%C3%ADsicaN.png)
