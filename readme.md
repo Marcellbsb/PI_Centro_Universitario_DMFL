@@ -40,7 +40,7 @@ _A categoria de **Professores** atua na prestação de serviços específicos at
 
 ![Professores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20professoresN.png)
 
-_Os **Fornecedores** são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especifidades relacionadas ao produtos que são utilizados, quanto no aviso prévio da falta desses mesmos produtos, os quais podem impactar em um funcionamento harmônico e eficaz da instituição, temos como exemplo a tela a seguir:_
+_Os **Fornecedores** são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especifidades relacionadas a esses produtos que são utilizados, quanto no aviso prévio da falta destes, os quais a indisponibilidade pode impactar no correto funcionamento da instituição, temos como exemplo a tela a seguir:_
 
 ![Fornecedores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20fornecedoresN.png)
 
@@ -48,11 +48,11 @@ _Aos **Alunos** que estão matriculados na instituição é disponibilizado o ac
 
 ![Alunos](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20alunos%20N.png)
 
-_No contexto da parte correspondente à **Pessoa Jurídica** destaca-se os parâmetros relativos aos pedidos que são executados, visto que caberá à essa parte do sistema a incubência da geração de pedidos como também a remoção destes, conforme imagem:_
+_No contexto da parte correspondente à **Pessoa Jurídica** destacam-se os parâmetros relativos aos pedidos que são executados, visto que caberá à essa parte do sistema a incubência da geração de pedidos como também a remoção destes, conforme imagem:_
 
 ![Pessoa Jurídica](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20pessoa%20jur%C3%ADdicaN.png)
 
-**Pessoa Física:**_Concernente a essa parte estão vinculadas outras duas, as quais são __Professores__ e __Alunos__, a qual inclui também especificidades de cadastramento de novos usuários na interface dos sistema em questão e caso o usuário já seja cadastrado, será redirecionado para página de login, conforme visto no exemplo:_
+**Pessoa Física:**_Concernente a essa parte estão vinculadas outras duas, __Professores__ e __Alunos__, inclui também especificidades de cadastramento de novos usuários na interface do sistema em questão e caso o usuário já seja cadastrado, será redirecionado para página de login, conforme visto no exemplo:_
 
 ![Pessoa Física](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20pessoa%20f%C3%ADsicaN.png)
 
