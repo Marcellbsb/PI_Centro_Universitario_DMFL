@@ -38,7 +38,10 @@ _Cada ator atua no cenário que corresponde ao seu perfil específico, desenvolv
 
 **Professores:**  
 
-_Essa categoria atua na prestação de serviços específicos através da plataforma, os quais estão diretamente ligados a aplicação de avaliações, ministração das disciplinas pertinentes a sua área de atuação e seu devido cancelamento._
+_Essa categoria atua na prestação de serviços específicos através da plataforma, os quais estão diretamente ligados a aplicação de avaliações, ministração das disciplinas pertinentes a sua área de atuação e seu devido cancelamento, como segue na ilustração abaixo:_
+
+![Professores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20professoresN.png)
+
 
 **Fornecedores:**
 _Os fornecedores são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especifidades relacionadas ao produtos que são utilizados, quanto no aviso prévio da falta desses mesmos produtos, os quais podem impactar em um funcionamento harmônico e eficaz da instituição._
