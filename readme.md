@@ -26,9 +26,18 @@ _Na sequência pode-se visualizar a tela de **Login**, como opções de inserç�
 
 ![Tela de login](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20telaloginN.png)
 
-_Cada parte tem acesso à características específicas de acesso, às quais são condizentes com o meio de atuaçã, incluido particularidades de prestação de serviços, dentre outros._
+_Na tela de **Categorias** são listadas as partes que compõe a interface do sistema, na qual a partir da seleção do ator desejado, levará ao redirecionamento para a próxima página da interface._
+
+![Tela de categorias](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20(Categorias)%20N.png)
+
+_Cada parte tem acesso à características específicas de perfil, às quais são condizentes com o meio de atuação, incluido particularidades de prestação de serviços, dentre outros._
+
+## Cenários
+
+_Cada ator atua no cenário que corresponde ao seu perfil específico, desenvolvendo atividades, serviços ou fornecendo produtos no âmbito institucional do **Centro Universitário DMFL**._
 
 **Professores:**  
+
 _Essa categoria atua na prestação de serviços específicos através da plataforma, os quais estão diretamente ligados a aplicação de avaliações, ministração das disciplinas pertinentes a sua área de atuação e seu devido cancelamento._
 
 **Fornecedores:**
