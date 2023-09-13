@@ -36,24 +36,21 @@ _Cada parte tem acesso à características específicas de perfil, às quais sã
 
 _Cada ator atua no cenário que corresponde ao seu perfil específico, desenvolvendo atividades, serviços ou fornecendo produtos no âmbito institucional do **Centro Universitário DMFL**._
 
-**Professores:**  
-
-_Essa categoria atua na prestação de serviços específicos através da plataforma, os quais estão diretamente ligados a aplicação de avaliações, ministração das disciplinas pertinentes a sua área de atuação e seu devido cancelamento, como segue na ilustração abaixo:_
+_A categoria de **Professores** atua na prestação de serviços específicos através da plataforma, os quais estão diretamente ligados a aplicação de avaliações, ministração das disciplinas pertinentes a sua área de atuação e seu devido cancelamento, como segue na ilustração abaixo:_
 
 ![Professores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20professoresN.png)
 
-
-**Fornecedores:**
-_Os fornecedores são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especifidades relacionadas ao produtos que são utilizados, quanto no aviso prévio da falta desses mesmos produtos, os quais podem impactar em um funcionamento harmônico e eficaz da instituição, temos como exemplo a tela a seguir:_
+_Os **Fornecedores** são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especifidades relacionadas ao produtos que são utilizados, quanto no aviso prévio da falta desses mesmos produtos, os quais podem impactar em um funcionamento harmônico e eficaz da instituição, temos como exemplo a tela a seguir:_
 
 ![Fornecedores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20fornecedoresN.png)
 
-**Alunos:**
-_Aos alunos que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados, como visualizado na ilustração seguinte:_
+_Aos **Alunos** que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados, como visualizado na ilustração seguinte:_
 
 ![Alunos](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20alunos%20N.png)
 
-**Pessoa Jurídica:** _No contexto da parte correspondente à pessoa jurídica destaca-se os parâmetros relativos aos pedidos que são executados, visto que essa caberá à essa parte do sistema a incubência da geração de pedidos como também a remoção destes._
+_No contexto da parte correspondente à **Pessoa Jurídica** destaca-se os parâmetros relativos aos pedidos que são executados, visto que caberá à essa parte do sistema a incubência da geração de pedidos como também a remoção destes, conforme imagem:_
+
+![Pessoa Jurídica](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20pessoa%20jur%C3%ADdicaN.png)
 
 **Pessoa Física:**_Concernente a essa parte estão vinculadas outras duas, as quais são __Professores__ e __Alunos__, a qual inclui também especificidades de cadastramento de novos usuários na interface dos sistema em questão._
 
