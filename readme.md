@@ -40,7 +40,7 @@ _A categoria de **Professores** atua na prestação de serviços específicos at
 
 ![Professores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20professoresN.png)
 
-_Os **Fornecedores** são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especifidades relacionadas a esses produtos que são utilizados, quanto no aviso prévio da falta destes, os quais a indisponibilidade pode impactar no correto funcionamento da instituição, temos como exemplo a tela a seguir:_
+_Os **Fornecedores** são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especificidades relacionadas a esses produtos que são utilizados, quanto no aviso prévio da falta destes, os quais a indisponibilidade pode impactar no correto funcionamento da instituição, temos como exemplo a tela a seguir:_
 
 ![Fornecedores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20fornecedoresN.png)
 
