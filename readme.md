@@ -56,8 +56,8 @@ _No contexto da parte correspondente à **Pessoa Jurídica** destaca-se os parâ
 
 ![Pessoa Física](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20pessoa%20f%C3%ADsicaN.png)
 
+_Na url abaixo podemos verificar as ações das variadas funções de acessibilidade da interface do sistema e ações das respectivas partes, expostas em imagens exemplificadas anteriormente a partir do prisma de usabilidade de um Smarthphone._
 
-
-
+https://www.figma.com/proto/eiR0WvvDhS7dzIBtY3C4up/PI-Centro-Universit%C3%A1rio?type=design&node-id=8-121&t=9OmmrxiSlsguygbz-1&scaling=scale-down&page-id=0%3A1&mode=design
 
 
