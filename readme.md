@@ -49,7 +49,9 @@ _Os fornecedores são inteiramente responsáveis pelo fornecimento de produtos d
 ![Fornecedores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20fornecedoresN.png)
 
 **Alunos:**
-_Aos alunos que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados._
+_Aos alunos que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados, como visualizado na ilustração seguinte:_
+
+![Alunos](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20alunos%20N.png)
 
 **Pessoa Jurídica:** _No contexto da parte correspondente à pessoa jurídica destaca-se os parâmetros relativos aos pedidos que são executados, visto que essa caberá à essa parte do sistema a incubência da geração de pedidos como também a remoção destes._
 
