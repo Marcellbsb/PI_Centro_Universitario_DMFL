@@ -12,7 +12,6 @@ Iniciando algumas características do projeto.
 
 *O contexto desse projeto abrange a prototipagem de partes da interface de um sistema de um centro universitário, a qual abrange cinco categorias de usuários, a saber:* 
 
-* **Pessoa Física**
 * **Pessoa Jurídica**
 * **Professores**
 * **Alunos**
