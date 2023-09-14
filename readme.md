@@ -19,7 +19,7 @@ Iniciando algumas características do projeto.
   
 _Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistema em carregamento:_
 
-![Tela inicial da interface]()
+![Tela principal](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(1).jpg)
 
 _Na sequência pode-se visualizar a tela de **Login**, com opções de inserção de e-mail e senha, incluindo parâmetros de redefinição. Abrange inclusive possibilidade de redirecionamento para criação de uma conta, caso necessário._
 
