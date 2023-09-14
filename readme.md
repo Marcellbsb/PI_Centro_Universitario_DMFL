@@ -75,11 +75,48 @@ _A categoria de **Professores** atua na prestação de serviços específicos at
 
 _Os **Fornecedores** são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especificidades relacionadas a esses produtos que são utilizados, quanto no aviso prévio da falta destes, os quais a indisponibilidade pode impactar no correto funcionamento da instituição, temos como exemplo a tela a seguir:_
 
-![Fornecedores]()
+![Fornecedores1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Fornecedor%20(1).jpg)
+
+
+
+
+
+![Fornecedores2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Fornecedor%20(2).jpg)
+
+
+
+
+![Fornecedores3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Fornecedor%20(3).jpg)
+
+
+
 
 _Aos **Alunos** que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados, como visualizado na ilustração seguinte:_
 
-![Alunos]()
+![Alunos1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(1).jpg)
+
+
+
+
+![Alunos2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(2).jpg)
+
+
+
+
+![Alunos3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(3).jpg)
+
+
+
+
+![Alunos4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(4).jpg)
+
+
+
+![Alunos5](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(5).jpg)
+
+
+
+
 
 _No contexto da parte correspondente à **Pessoa Jurídica** destacam-se os parâmetros relativos aos pedidos que são executados, visto que caberá à essa parte do sistema a incubência da geração de pedidos como também a remoção destes, conforme imagem:_
 
