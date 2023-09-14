@@ -24,6 +24,9 @@ _Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistem
 
 ![Tela principal 2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(2).jpg)
 
+
+![Tela principal 2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(3).jpg)
+
 _Na sequência pode-se visualizar a tela de **Login**, com opções de inserção de e-mail e senha, incluindo parâmetros de redefinição. Abrange inclusive possibilidade de redirecionamento para criação de uma conta, caso necessário._
 
 ![Tela de login]()
