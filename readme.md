@@ -20,15 +20,15 @@ Iniciando algumas características do projeto.
   
 _Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistema em carregamento:_
 
-![Tela inicial da interface]( https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frm%20incial%20(1).png)
+![Tela inicial da interface]()
 
 _Na sequência pode-se visualizar a tela de **Login**, com opções de inserção de e-mail e senha, incluindo parâmetros de redefinição. Abrange inclusive possibilidade de redirecionamento para criação de uma conta, caso necessário._
 
-![Tela de login](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20telaloginN.png)
+![Tela de login]()
 
 _Na tela de **Categorias** são listadas as partes que compõe a interface do sistema, na qual a partir da seleção do ator desejado, levará ao redirecionamento para a próxima página da interface._
 
-![Tela de categorias](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20(Categorias)%20N.png)
+![Tela de categorias]()
 
 _Cada parte tem acesso à características específicas de perfil, às quais são condizentes com o meio de atuação, incluido particularidades de prestação de serviços, dentre outros._
 
@@ -38,26 +38,23 @@ _Cada ator atua no cenário que corresponde ao seu perfil específico, desenvolv
 
 _A categoria de **Professores** atua na prestação de serviços específicos através da plataforma, os quais estão diretamente ligados a aplicação de avaliações, ministração das disciplinas pertinentes a sua área de atuação e seu devido cancelamento, como segue na ilustração abaixo:_
 
-![Professores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20professoresN.png)
+![Professores]()
 
 _Os **Fornecedores** são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especificidades relacionadas a esses produtos que são utilizados, quanto no aviso prévio da falta destes, os quais a indisponibilidade pode impactar no correto funcionamento da instituição, temos como exemplo a tela a seguir:_
 
-![Fornecedores](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20fornecedoresN.png)
+![Fornecedores]()
 
 _Aos **Alunos** que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados, como visualizado na ilustração seguinte:_
 
-![Alunos](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20alunos%20N.png)
+![Alunos]()
 
 _No contexto da parte correspondente à **Pessoa Jurídica** destacam-se os parâmetros relativos aos pedidos que são executados, visto que caberá à essa parte do sistema a incubência da geração de pedidos como também a remoção destes, conforme imagem:_
 
-![Pessoa Jurídica](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20pessoa%20jur%C3%ADdicaN.png)
+![Pessoa Jurídica]()
 
 **Pessoa Física:**_Concernente a essa parte estão vinculadas outras duas, __Professores__ e __Alunos__, inclui também especificidades de cadastramento de novos usuários na interface do sistema em questão e caso o usuário já seja cadastrado, será redirecionado para página de login, conforme visto no exemplo:_
 
-![Pessoa Física](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Frame%20pessoa%20f%C3%ADsicaN.png)
+![Pessoa Física]()
 
-_Na url abaixo podemos verificar as ações das variadas funções de acessibilidade da interface do sistema e ações das respectivas partes, expostas em imagens exemplificadas anteriormente a partir do prisma de usabilidade de um Smarthphone._
-
-https://www.figma.com/proto/eiR0WvvDhS7dzIBtY3C4up/PI-Centro-Universit%C3%A1rio?type=design&node-id=8-121&t=9OmmrxiSlsguygbz-1&scaling=scale-down&page-id=0%3A1&mode=design
 
 
