@@ -53,7 +53,7 @@ _No contexto da parte correspondente à **Pessoa Jurídica** destacam-se os par�
 
 **Pessoa Física:**_Concernente a essa parte estão vinculadas outras duas, __Professores__ e __Alunos__, inclui também especificidades de cadastramento de novos usuários na interface do sistema em questão e caso o usuário já seja cadastrado, será redirecionado para página de login, conforme visto no exemplo:_
 
-![Pessoa Física]()
+
 
 
 
