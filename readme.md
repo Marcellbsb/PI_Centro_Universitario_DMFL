@@ -42,34 +42,29 @@ _A tela de **Manutenção de Pessoa** permite que o usuário ou administrador do
 
 _Cada ator atua no cenário que corresponde ao seu perfil específico, desenvolvendo atividades, serviços ou fornecendo produtos no âmbito institucional do **Centro Universitário DMFL**._
 
-_A categoria de **Professores** atua na prestação de serviços específicos através da plataforma, os quais estão diretamente ligados a aplicação de avaliações, ministração das disciplinas pertinentes a sua área de atuação e seu devido cancelamento, como segue na ilustração abaixo:_
+_A categoria de **Docente** atua na prestação de serviços específicos através da plataforma, os quais estão diretamente ligados a aplicação de avaliações, ministração das disciplinas pertinentes a sua área de atuação e seu devido cancelamento, como segue na tela abaixo:_
 
 ![Professores1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(1).jpg)
 
-
-
+_Seleção do tipo de curso._
 
 ![Professores2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(2).jpg)
 
-
+_Ações pertinentes ao docente._
 
 ![Professores3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(3).jpg)
 
-
+_Ambiente de ministração da disciplina e suas funcionalidades._
 
 ![Professores4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(4).jpg)
 
-
+_Manutenção de questões para avaliação._
 
 ![Professores5](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(5).jpg)
 
-
+_Ambiente de avaliação do aluno._
 
 ![Professores6](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(6).jpg)
-
-
-
-
 
 _Os **Fornecedores** são inteiramente responsáveis pelo fornecimento de produtos destinados ao funcionamento diário da instituição, possuem acesso ao sistema tanto para acrescentar especificidades relacionadas a esses produtos que são utilizados, quanto no aviso prévio da falta destes, os quais a indisponibilidade pode impactar no correto funcionamento da instituição, temos como exemplo a tela a seguir:_
 
