@@ -100,33 +100,23 @@ _Consulta de resultado da avaliação._
 
 _No contexto da parte correspondente à **Pessoa Jurídica** destacam-se os parâmetros relativos aos pedidos que são executados, visto que caberá à essa parte do sistema a incubência da geração de pedidos como também a remoção destes, conforme imagem:_
 
-
-
-
 ![Pessoa Jurídica1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Pessoa%20Juridica%20(1).jpg)
 
-
-
+_Cadastro de itens do pedido._
 
 ![Pessoa Jurídica2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Pessoa%20Juridica%20(2).jpg)
 
-
-
+_Consulta do pedido._
 
 ![Pessoa Jurídica3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Pessoa%20Juridica%20(3).jpg)
 
-
-
+_Manutenção de cotações._
 
 ![Pessoa Jurídica4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Pessoa%20Juridica%20(4).jpg)
 
-
-
+_Gestão de cotações._
 
 ![Pessoa Jurídica5](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Pessoa%20Juridica%20(5).jpg)
-
-
-
 
 **Pessoa Física:**_Concernente a essa parte estão vinculadas outras duas, __Professores__ e __Alunos__, inclui também especificidades de cadastramento de novos usuários na interface do sistema em questão e caso o usuário já seja cadastrado, será redirecionado para página de login, conforme visto no exemplo:_
 
