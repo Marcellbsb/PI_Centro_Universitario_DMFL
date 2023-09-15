@@ -17,9 +17,13 @@ Iniciando algumas características do projeto.
 * **Alunos**
 * **Fornecedores**
   
-_Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistema em carregamento:_
+_Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistema:_
 
 ![Tela principal](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(1).jpg)
+
+## Tela de Login 
+
+_Na sequência pode-se visualizar a tela de **Login**, com opções de inserção de **CPF/CNPJ** e Senha, incluindo parâmetros de redefinição. Abrange inclusive possibilidade de redirecionamento para criação de uma conta, caso necessário._
 
 
 ![Tela principal 2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(2).jpg)
@@ -30,15 +34,6 @@ _Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistem
 
 ![Tela principal 4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(4).jpg)
 
-_Na sequência pode-se visualizar a tela de **Login**, com opções de inserção de e-mail e senha, incluindo parâmetros de redefinição. Abrange inclusive possibilidade de redirecionamento para criação de uma conta, caso necessário._
-
-![Tela de login]()
-
-_Na tela de **Categorias** são listadas as partes que compõe a interface do sistema, na qual a partir da seleção do ator desejado, levará ao redirecionamento para a próxima página da interface._
-
-![Tela de categorias]()
-
-_Cada parte tem acesso à características específicas de perfil, às quais são condizentes com o meio de atuação, incluido particularidades de prestação de serviços, dentre outros._
 
 ## Cenários
 
