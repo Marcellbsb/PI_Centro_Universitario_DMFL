@@ -11,10 +11,10 @@ Iniciando algumas características do projeto.
 
 *O contexto desse projeto abrange a prototipagem de partes da interface de um sistema de um centro universitário, a qual abrange cinco categorias de usuários, a saber:* 
 
+* **Docente**
+* **Aluno**
+* **Fornecedor**
 * **Pessoa Jurídica**
-* **Professores**
-* **Alunos**
-* **Fornecedores**
   
 _Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistema:_
 
@@ -24,15 +24,19 @@ _Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistem
 
 _Na sequência pode-se visualizar a tela de **Login**, com opções de inserção de **CPF/CNPJ** e Senha, incluindo parâmetros de redefinição. Abrange inclusive possibilidade de redirecionamento para criação de uma conta, caso necessário._
 
-
 ![Tela principal 2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(2).jpg)
 
+## Tela de Cadastro de Pessoa
+
+_A tela de **Cadastro de Pessoa** permite que o usuário informe **CPF/CNPJ**, **Nome/Razão Social**, **e-mail**, **telefone** e **senha de acesso**, para que seja realizado seu cadastro._
 
 ![Tela principal 3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(3).jpg)
 
+## Tela de Manutenção de Pessoa
+
+_A tela de **Manutenção de Pessoa** permite que o usuário ou administrador do sistema realize ajustes no cadastro da pessoa._
 
 ![Tela principal 4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(4).jpg)
-
 
 ## Cenários
 
