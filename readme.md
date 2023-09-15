@@ -9,7 +9,6 @@ Iniciando algumas características do projeto.
 ## Gestão de dados de um centro universitário
 ###### O projeto contém o cadastro de diferentes tipos de pessoas em um sistema de um grande centro universitário.
 
-
 *O contexto desse projeto abrange a prototipagem de partes da interface de um sistema de um centro universitário, a qual abrange cinco categorias de usuários, a saber:* 
 
 * **Pessoa Jurídica**
@@ -21,7 +20,7 @@ _Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistem
 
 ![Tela principal](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(1).jpg)
 
-## Tela de Login 
+## Tela de Login
 
 _Na sequência pode-se visualizar a tela de **Login**, com opções de inserção de **CPF/CNPJ** e Senha, incluindo parâmetros de redefinição. Abrange inclusive possibilidade de redirecionamento para criação de uma conta, caso necessário._
 
