@@ -70,47 +70,33 @@ _Os **Fornecedores** são inteiramente responsáveis pelo fornecimento de produt
 
 ![Fornecedores1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Fornecedor%20(1).jpg)
 
-
-
-
+_Pesquisa de pedidos._
 
 ![Fornecedores2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Fornecedor%20(2).jpg)
 
-
-
+_Manutenção de pedidos._
 
 ![Fornecedores3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Fornecedor%20(3).jpg)
-
-
-
 
 _Aos **Alunos** que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados, como visualizado na ilustração seguinte:_
 
 ![Alunos1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(1).jpg)
 
-
-
+_Seleção de disciplina._
 
 ![Alunos2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(2).jpg)
 
-
-
+_Ambiente de aula._
 
 ![Alunos3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(3).jpg)
 
-
-
+_Ambiente de avaliação._
 
 ![Alunos4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(4).jpg)
 
-
-
+_Consulta de resultado da avaliação._
 
 ![Alunos5](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(5).jpg)
-
-
-
-
 
 _No contexto da parte correspondente à **Pessoa Jurídica** destacam-se os parâmetros relativos aos pedidos que são executados, visto que caberá à essa parte do sistema a incubência da geração de pedidos como também a remoção destes, conforme imagem:_
 
