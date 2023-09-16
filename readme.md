@@ -42,7 +42,7 @@ _A tela de **Manutenção de Pessoa** permite que o usuário ou administrador do
 ![Tela principal 4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(4).jpg)
 
 ## Cenários
-
+***
 _Cada ator atua no cenário que corresponde ao seu perfil específico, desenvolvendo atividades, serviços ou fornecendo produtos no âmbito institucional do **Centro Universitário DMFL**._
 
 _A categoria de **Docente** atua na prestação de serviços específicos através da plataforma, os quais estão diretamente ligados a aplicação de avaliações, ministração das disciplinas pertinentes a sua área de atuação e seu devido cancelamento, como segue na tela abaixo:_
