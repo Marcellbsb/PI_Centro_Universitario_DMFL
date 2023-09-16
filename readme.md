@@ -30,7 +30,7 @@ _Na sequência pode-se visualizar a tela de **Login**, com opções de inserçã
 ![Tela principal 2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(2).jpg)
 
 ## Tela de Cadastro de Pessoa
-
+***
 _A tela de **Cadastro de Pessoa** permite que o usuário informe **CPF/CNPJ**, **Nome/Razão Social**, **e-mail**, **telefone** e **senha de acesso**, para que seja realizado seu cadastro._
 
 ![Tela principal 3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(3).jpg)
