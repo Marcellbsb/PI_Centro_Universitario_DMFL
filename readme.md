@@ -36,7 +36,7 @@ _A tela de **Cadastro de Pessoa** permite que o usuário informe **CPF/CNPJ**, *
 ![Tela principal 3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(3).jpg)
 
 ## Tela de Manutenção de Pessoa
-
+***
 _A tela de **Manutenção de Pessoa** permite que o usuário ou administrador do sistema realize ajustes no cadastro da pessoa._
 
 ![Tela principal 4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(4).jpg)
