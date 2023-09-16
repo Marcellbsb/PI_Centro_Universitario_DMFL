@@ -9,7 +9,7 @@ Iniciando algumas características do projeto.
 ## Gestão de dados de um centro universitário
 ###### O projeto contém o cadastro de diferentes tipos de pessoas em um sistema de um grande centro universitário.
 
-*O contexto desse projeto abrange a prototipagem de partes da interface de um sistema de um centro universitário, a qual abrange cinco categorias de usuários, a saber:* 
+  *O contexto desse projeto abrange a prototipagem de partes da interface de um sistema de um centro universitário, a qual abrange quatro categorias de usuários, a saber:* 
 
 * **Docente**
 * **Aluno**
