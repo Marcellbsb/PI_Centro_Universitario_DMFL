@@ -49,7 +49,7 @@ _A categoria de **Docente** atua na prestação de serviços específicos atrav�
 
 ![Professores1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(1).jpg)
 
-_O docente seleciona o tipo de curso para realizar suas atividades._
+_O **docente** seleciona o tipo de curso para realizar suas atividades._
 
 ![Professores2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(2).jpg)
 
