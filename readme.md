@@ -22,7 +22,7 @@ _Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistem
 
 ## Tela de Login
 
-_Na sequência pode-se visualizar a tela de **Login**, com opções de inserção de **CPF/CNPJ** e Senha, incluindo parâmetros de redefinição. Abrange inclusive possibilidade de redirecionamento para criação de uma conta, caso necessário._
+_Na sequência pode-se visualizar a tela de **Login**, com opções de inserção de **CPF/CNPJ** e **Senha**, incluindo parâmetros de redefinição. Abrange inclusive possibilidade de redirecionamento para criação de uma conta, caso necessário._
 
 ![Tela principal 2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Principal%20(2).jpg)
 
@@ -46,23 +46,23 @@ _A categoria de **Docente** atua na prestação de serviços específicos atrav�
 
 ![Professores1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(1).jpg)
 
-_Seleção do tipo de curso._
+_O docente seleciona o tipo de curso para realizar suas atividades._
 
 ![Professores2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(2).jpg)
 
-_Ações pertinentes ao docente._
+_Aqui são selecinadas a turma e disciplina para as quais o docente vai ministrar ou cancelar aula e avaliar ou corrigir avaliação de aluno._
 
 ![Professores3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(3).jpg)
 
-_Ambiente de ministração da disciplina e suas funcionalidades._
+_Nesta tela o docente tem o ambiente de ministração de aulas e interação com alunos através de chat._
 
 ![Professores4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(4).jpg)
 
-_Manutenção de questões para avaliação._
+_A manutenção das questões de avaliação são realizadas na tela que segue._
 
 ![Professores5](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(5).jpg)
 
-_Ambiente de avaliação do aluno._
+_A correção das respostas dos alunos para as questões formuladas são realizadas nesta próxima tela._
 
 ![Professores6](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(6).jpg)
 
@@ -70,11 +70,11 @@ _Os **Fornecedores** são inteiramente responsáveis pelo fornecimento de produt
 
 ![Fornecedores1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Fornecedor%20(1).jpg)
 
-_Pesquisa de pedidos._
+_O fornecedor vai consultar os pedidos feitos para ele nesta tela._
 
 ![Fornecedores2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Fornecedor%20(2).jpg)
 
-_Manutenção de pedidos._
+_Aqui o fornecedor vai realizar as atualizações no pedido que vai atender._
 
 ![Fornecedores3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Fornecedor%20(3).jpg)
 
@@ -82,15 +82,15 @@ _Aos **Alunos** que estão matriculados na instituição é disponibilizado o ac
 
 ![Alunos1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(1).jpg)
 
-_Seleção de disciplina._
+_O aluno seleciona a disciplina que deseja cursar, submeter-se a avaliação ou consultar resultados de avaliação nesta tela._
 
 ![Alunos2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(2).jpg)
 
-_Ambiente de aula._
+_Nesta tela o aluno vai assistir aulas e interagir com o docente._
 
 ![Alunos3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(3).jpg)
 
-_Ambiente de avaliação._
+_As avaliações são iniciadas e entregues nesta tela._
 
 ![Alunos4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(4).jpg)
 
@@ -102,25 +102,18 @@ _No contexto da parte correspondente à **Pessoa Jurídica** destacam-se os par�
 
 ![Pessoa Jurídica1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Pessoa%20Juridica%20(1).jpg)
 
-_Cadastro de itens do pedido._
+_Aqui os pedidos são gerados._
 
 ![Pessoa Jurídica2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Pessoa%20Juridica%20(2).jpg)
 
-_Consulta do pedido._
+_Nesta tela o pedido e seus itens são mantidos._
 
 ![Pessoa Jurídica3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Pessoa%20Juridica%20(3).jpg)
 
-_Manutenção de cotações._
+_Vinculação de fornecedores ao pedido, para solicitar cotações._
 
 ![Pessoa Jurídica4](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Pessoa%20Juridica%20(4).jpg)
 
-_Gestão de cotações._
+_Consulta das cotações fornecidas pelos fornecedores._
 
 ![Pessoa Jurídica5](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Pessoa%20Juridica%20(5).jpg)
-
-**Pessoa Física:**_Concernente a essa parte estão vinculadas outras duas, __Professores__ e __Alunos__, inclui também especificidades de cadastramento de novos usuários na interface do sistema em questão e caso o usuário já seja cadastrado, será redirecionado para página de login, conforme visto no exemplo:_
-
-
-
-
-
