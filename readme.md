@@ -15,6 +15,8 @@ Iniciando algumas características do projeto.
 * **Aluno**
 * **Fornecedor**
 * **Pessoa Jurídica**
+
+## Início
   
 _Na imagem abaixo podemos verificar a **Página Inicial** da interface do sistema:_
 
