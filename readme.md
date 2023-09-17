@@ -53,7 +53,7 @@ _O **docente** seleciona o tipo de curso para realizar suas atividades._
 
 ![Professores2](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(2).jpg)
 
-_Aqui são selecinadas a turma e disciplina para as quais o docente vai ministrar ou cancelar aula e avaliar ou corrigir avaliação de aluno._
+_Aqui são selecionadas a turma e disciplina para as quais o docente vai ministrar ou cancelar aula e avaliar ou corrigir avaliação de aluno._
 
 ![Professores3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Docente%20(3).jpg)
 
@@ -81,7 +81,7 @@ _Aqui o fornecedor vai realizar as atualizações no pedido que vai atender._
 
 ![Fornecedores3](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Fornecedor%20(3).jpg)
 
-_Aos **Alunos** que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados, como visualizado na ilustração seguinte:_
+_Aos **Alunos** que estão matriculados na instituição é disponibilizado o acesso à plataforma de ensino para aprendizagem dos conteúdos relativos à acessibilidade das disciplinas que são lecionadas, tarefas, feedebacks, bem como a realização de avaliações aplicadas pelos diversos professores credenciados, como visualizado na seguinte tela:_
 
 ![Alunos1](https://github.com/Marcellbsb/PI_Centro_Universitario_DMFL/blob/main/Trilha%20Aluno%20(1).jpg)
 
